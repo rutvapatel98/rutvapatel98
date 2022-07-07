@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 [![Leetcode](https://img.shields.io/badge/Leetcode-1417-orange)](https://leetcode.com/rpat98/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<a href="https://github.com/rutvapatel98">
+<!-- <a href="https://github.com/rutvapatel98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvapatel98&theme=light&hide_langs_below=1" />
 </a>
-
+ -->
 
 <a href="https://github.com/sen-29/timetable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Auto-scaling-real-time-face-recognition&theme=light" />
