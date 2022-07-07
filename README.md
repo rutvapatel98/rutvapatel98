@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**rutvapatel98/rutvapatel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## Hello, I'm [Rutva Patel!](https://www.linkedin.com/in/rutvapatel98/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujjval-Patel &label=Views&color=brightgreen&style=plastic" alt="Rutva-Patel" /> </p>
