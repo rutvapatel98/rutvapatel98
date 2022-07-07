@@ -52,12 +52,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/rutvapatel98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvapatel98&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/rutvapatel98">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvapatel98&show_icons=true&theme=light&line_height=27" alt="Rutva's Github Stats"/>
-</a>
+
 
 <a href="https://github.com/sen-29/timetable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sen-29&repo=timetable&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Auto-scaling-real-time-face-recognition&theme=light" />
 
 
 <div align="center">
