@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm [Rutva Patel!](https://www.linkedin.com/in/rutvapatel98/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvapatel98 &label=Views&color=brightgreen&style=plastic" alt="Rutva-Patel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujjval-Patel &label=Views&color=brightgreen&style=plastic" alt="Rutva-Patel" /> </p>
 
 <a href="https://www.linkedin.com/in/rutvapatel98/">
   <img align="left" alt="Rutva's Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - :briefcase: I'am currently working as a Backend intern at Uber. An incoming software engineering intern at Audible (Amazon subsidiary)
 - 🌱 I enjoy hiking moutains and explore undiscovered places on the weekends. 
 - ❤️ I enjoy finding a common problem and generalizing a solution. 
-- 📫 How to reach me: [Instagram - @\rutvapatel98](https://www.instagram.com/rutvapatel98/)
+- 📫 How to reach me: [Instagram - @\rutvapatel98](https://www.instagram.com/rutvapatel98/) or [Email - rutvakpatel98@gmail.com](mailto:rutvakpatel98@gmail.com)
 - 😄 Pronouns: She/Her
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-1417-orange)](https://leetcode.com/rpat98/)&nbsp;&nbsp;&nbsp;&nbsp;
