@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello, I'm [Rutva Patel!](https://www.linkedin.com/in/rutvapatel98/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvapatel98 &label=Views&color=brightgreen&style=plastic" alt="Ujjval-Patel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvapatel98 &label=Views&color=brightgreen&style=plastic" alt="Rutva-Patel" /> </p>
 
 <a href="https://www.linkedin.com/in/rutvapatel98/">
   <img align="left" alt="Rutva's Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 
 
-<a href="https://github.com/Ujjval-Patel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjval-Patel&theme=light&hide_langs_below=1" />
+<a href="https://github.com/rutvapatel98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvapatel98&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Ujjval-Patel">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ujjval-Patel&show_icons=true&theme=light&line_height=27" alt="Ujjval's Github Stats"/>
+<a href="https://github.com/rutvapatel98">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvapatel98&show_icons=true&theme=light&line_height=27" alt="Rutva's Github Stats"/>
 </a>
 
 <a href="https://github.com/sen-29/timetable">
