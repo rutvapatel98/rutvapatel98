@@ -1,6 +1,5 @@
-### Hi there 👋
 
-## Hello, I'm [Rutva Patel!](https://www.linkedin.com/in/rutvapatel98/) 👋
+## Hi there, I'm [Rutva Patel!](https://www.linkedin.com/in/rutvapatel98/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujjval-Patel &label=Views&color=brightgreen&style=plastic" alt="Rutva-Patel" /> </p>
 
