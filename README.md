@@ -29,11 +29,11 @@
 </a>
  -->
 
-<a href="https://github.com/sen-29/timetable">
+<a href="https://github.com/rutvapatel98/Auto-scaling-real-time-face-recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Auto-scaling-real-time-face-recognition&theme=light" />
 
-<a href="https://github.com/sen-29/timetable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Auto-scaling-real-time-face-recognition&theme=light" />
+<a href="https://github.com/rutvapatel98/Extending-Minibase-to-support-RDBMS-functionalities">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Extending-Minibase-to-support-RDBMS-functionalities&theme=light" />
   
 <div align="center">
 
