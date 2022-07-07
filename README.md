@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/sen-29/timetable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Auto-scaling-real-time-face-recognition&theme=light" />
 
-
+<a href="https://github.com/sen-29/timetable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Auto-scaling-real-time-face-recognition&theme=light" />
+  
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
