@@ -28,6 +28,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvapatel98&theme=light&hide_langs_below=1" />
 </a>
  -->
+ 
+Things I love  💻 
+ 
+- Backend Development
+- Python 
+- Machine Learning
+- Data Science
+- Reading Engineering blogs
+
 
 <a href="https://github.com/rutvapatel98/Auto-scaling-real-time-face-recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Auto-scaling-real-time-face-recognition&theme=light" />
