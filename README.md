@@ -29,7 +29,7 @@
 </a>
  -->
  
-Things I love  💻 
+ - 💻 Things I love 
  
 - Backend Development
 - Python 
