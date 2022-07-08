@@ -35,6 +35,9 @@
 <a href="https://github.com/rutvapatel98/Extending-Minibase-to-support-RDBMS-functionalities">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Extending-Minibase-to-support-RDBMS-functionalities&theme=light" />
   
+<a href="https://github.com/rutvapatel98/Visualization-of-Autonomous-Car-Differential-Evolutionary-Algorithm">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rutvapatel98&repo=Visualization-of-Autonomous-Car-Differential-Evolutionary-Algorithm&theme=light" />
+  
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
