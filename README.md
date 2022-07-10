@@ -18,7 +18,7 @@
 - :briefcase: I'am currently working as a Backend intern at Uber. An incoming software engineering intern at Audible (Amazon subsidiary)
 - 🌱 I enjoy hiking moutains and explore undiscovered places on the weekends. 
 - ❤️ I enjoy finding a common problem and generalizing a solution. 
-- 📫 How to reach me: [Instagram - @rutvapatel98](https://www.instagram.com/rutvapatel98/) or [Email - rutvakpatel98@gmail.com](mailto:rutvakpatel98@gmail.com)
+- 📫 How to reach me: [Instagram - @rutvapatel98](https://www.instagram.com/rutvapatel98/) or [Email - rpatel67@asu.edu](mailto:rpatel67@asu.edu)
 - 😄 Pronouns: She/Her
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-1417-orange)](https://leetcode.com/rpat98/)&nbsp;&nbsp;&nbsp;&nbsp;
